@@ -12,6 +12,11 @@ border: 1px solid ;
 
 }
 
+.logo1 {
+    width: 3em;
+    height: 3em;
+}
+
 .wrapper{
     width: 500px;
     height: 500px;
