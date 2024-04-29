@@ -58,8 +58,8 @@ height: 20em;
         flex-direction: column;
         margin: 1em;
     }
-    .imagenes {
-        width: 10em;
+    .imagenes img {
+        width: 80%;
         height: 20%;
         margin: 1em;
     }
