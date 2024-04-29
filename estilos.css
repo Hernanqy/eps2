@@ -63,7 +63,7 @@ height: 20em;
         height: 20%;
         margin: 1em;
     }
-    .parrafo {
-        width: 100%;
+    .texto .parrafo {
+        width: 80%;
     }
   }
