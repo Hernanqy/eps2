@@ -18,3 +18,34 @@ border: 1px solid ;
     position: relative;
 }
 
+.imagenes img{
+width: 39em;
+height: 23em;
+}
+
+
+.box1{
+display: flex;
+margin: 5em;
+justify-content: space-between;
+
+
+}
+
+.texto{
+width: 30em;
+height: 20em;
+}
+
+.texto {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+  }
+
+.titulo {
+ text-align: center;
+
+}
+
