@@ -66,3 +66,19 @@ height: 20em;
    .imagenes1 {
     margin:10em   }
   }
+  @media only screen and (min-width: 700px){
+  .card2 {
+    width: 20em;
+    height: 20em;
+  }
+
+  .card3 {
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    gap:0.5em
+  }
+  .navga {
+    margin-bottom:5em
+  }
+}
